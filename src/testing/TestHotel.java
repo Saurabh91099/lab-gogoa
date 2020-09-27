@@ -1,6 +1,5 @@
 package testing;
 
-/* Uncomment the below code to test your application
 
 import model.Hotel;
 import java.time.LocalDate;
@@ -62,4 +61,4 @@ public class TestHotel {
 	}
 
 }
-*/
+
